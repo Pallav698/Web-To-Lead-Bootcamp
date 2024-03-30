@@ -11,7 +11,7 @@ function beforeSubmit(event){
     }
     else{
         alert("Please check the captcha");
-        event.event.preventDefault();
+        event.preventDefault();
     }
 }
 
