@@ -16,5 +16,5 @@ function beforeSubmit(event){
 }
 
 function captchasuccess() {
-    this.captchaChecked = true;
+  this.captchaChecked = true;
 }
